@@ -1,4 +1,4 @@
-# Meme Generator
+# Meme Generator 👻
 
 ### [Live on Netlify 🚀](https://rivicodes-meme-generator.netlify.app)
 
