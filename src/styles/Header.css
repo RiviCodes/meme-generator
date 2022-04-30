@@ -1,0 +1,28 @@
+.header-section {
+  display: flex;
+  align-items: center;
+  color:  white;
+  background: rgb(103,34,128);
+  background: -moz-linear-gradient(90deg, rgba(103,34,128,1) 0%, rgba(166,38,211,1) 96%);
+  background: -webkit-linear-gradient(90deg, rgba(103,34,128,1) 0%, rgba(166,38,211,1) 96%);
+  background: linear-gradient(90deg, rgba(103,34,128,1) 0%, rgba(166,38,211,1) 96%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#672280",endColorstr="#a626d3",GradientType=1);
+  padding: 8px 24px; 
+}
+
+.troll_face {
+  height: auto;
+  width: 36px;
+  margin-right: 10px;
+}
+
+.header-section h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: auto; /* Moves near elements to the far right */
+}
+
+.header-section h2 {
+  font-size: 16px;
+  font-weight: lighter;
+}
